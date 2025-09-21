@@ -265,7 +265,7 @@ sudo mdadm --manage /dev/md0 --re-add /dev/sda
 
 **Your Name**
 - GitHub: [epqlffltm](https://github.com/epqlffltm)
-- Email: epqlffltm.gmali.com
+- Email: epqlffltm@gmali.com
 ---
 
 ## 📞 지원
