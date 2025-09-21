@@ -35,7 +35,7 @@
 
 ### 하드웨어
 - **라즈베리파이 4/5** (8GB 권장)
-- **radsa penta sata hat** (sata SSD 연결용)
+- **Radxa Penta SATA HAT** ([제품 페이지](https://radxa.com/products/accessories/penta-sata-hat/)) - SATA SSD 연결용
 - **SSD 4개** (동일 용량 권장)
 - **고품질 전원 어댑터** (12v DC 5525 power jack)
 
@@ -276,6 +276,12 @@ sudo mdadm --manage /dev/md0 --re-add /dev/sda
 
 ---
 
+### 📎 참고 자료
+- [Radxa Penta SATA HAT 제품 페이지](https://radxa.com/products/accessories/penta-sata-hat/)
+- [Radxa Penta SATA HAT 설치 가이드](https://docs.radxa.com/en/accessories/penta-sata-hat)
+
+
+---
 <div align="center">
 
 **⭐ 이 프로젝트가 도움이 되었다면 Star를 눌러주세요! ⭐**
