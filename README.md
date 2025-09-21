@@ -236,9 +236,9 @@ sudo mdadm --detail /dev/md0
 # 강제 재동기화
 sudo mdadm --manage /dev/md0 --re-add /dev/sda
 ```
-
+<!--
 더 자세한 문제 해결은 [troubleshooting.md](docs/troubleshooting.md)를 참조하세요.
-
+-->
 ---
 <!--
 ## 🤝 기여하기
