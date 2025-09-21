@@ -201,6 +201,7 @@ FILESYSTEM_TYPE = "btrfs"  # 고급 기능용
 - ✅ 동일한 용량/모델의 SSD 사용 권장
 - ✅ 정기적인 백업 수행
 - ✅ UPS 사용 권장 (정전 대비)
+- ✅ Radxa Penta SATA HAT 사용 권유(검증됨)
 
 ---
 
