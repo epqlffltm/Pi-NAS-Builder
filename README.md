@@ -72,7 +72,7 @@ sudo python3 nas.py
 ### 4. 재부팅 후 계속
 ```bash
 # PCIe 설정 후 재부팅됨
-sudo python3 nas-setup.py  # 다시 실행
+sudo python3 nas.py  # 다시 실행
 ```
 
 ---
